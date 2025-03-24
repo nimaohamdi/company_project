@@ -20,4 +20,4 @@ A **modern and responsive corporate website template** designed for businesses, 
 ## 🚀 Installation & Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/corporate-template.git
+   git clone https://github.com/nimaohamdi/company_project.git
